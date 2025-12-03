@@ -31,11 +31,19 @@ A bar chart showing revolve balance for grades A to G and their sub-grades, help
 
 ### Tools & Techniques Used
 -- Microsoft Excel
-- Pivot Tables
-- Pivot Charts
-- Slicers
-- Data Cleaning
-- Formatting & Dashboard Design
+-- Pivot Tables
+-- Pivot Charts
+-- Slicers
+-- Data Cleaning
+-- Formatting & Dashboard Design
+
+### Project Purpose
+- Identify loan performance trends
+- Understand customer repayment behavior
+- Monitor verification and ownership patterns
+- Assess financial risk using grades and sub-grades
+- Support decision-making using visual insights
+
 
 
 
