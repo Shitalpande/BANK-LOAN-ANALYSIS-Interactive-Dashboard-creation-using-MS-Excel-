@@ -29,4 +29,13 @@ A trend line chart showing loan distribution across different states, helping id
 5. Grade & Sub-Grade Wise Revolve Balance
 A bar chart showing revolve balance for grades A to G and their sub-grades, helping evaluate risk categories.
 
+### Tools & Techniques Used
+-- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Data Cleaning
+- Formatting & Dashboard Design
+
+
 
