@@ -3,14 +3,14 @@
 This project presents an interactive Bank Loan Analysis Dashboard built using Microsoft Excel.
 The dashboard helps analyze loan distribution, customer behavior, and financial performance through KPIs, charts, and slicers.
 
-### Dashboard Overview
+### 📌 Dashboard Overview
 - Total Customers: 39,717
 - Total Loan Amount: 445.60M
 - Average Interest Rate: 12.02%
 - Total Revolve Balance: 531.51M
 - Average DTI: 13.31
 
-### Visual Insights
+### 📈 Visual Insights
 
 1. Year-Wise Loan Amount Status
 A line chart showing how loan disbursement increased from 2007 to 2011, highlighting strong growth in loan issuance.
@@ -29,7 +29,7 @@ A trend line chart showing loan distribution across different states, helping id
 5. Grade & Sub-Grade Wise Revolve Balance
 A bar chart showing revolve balance for grades A to G and their sub-grades, helping evaluate risk categories.
 
-### Tools & Techniques Used
+### 🛠 Tools & Techniques Used
 - Microsoft Excel
 
 - Pivot Tables
@@ -42,7 +42,7 @@ A bar chart showing revolve balance for grades A to G and their sub-grades, help
 
 - Formatting & Dashboard Design
 
-### Project Purpose
+### 🎯 Project Purpose
 - Identify loan performance trends
 - Understand customer repayment behavior
 - Monitor verification and ownership patterns
