@@ -31,10 +31,15 @@ A bar chart showing revolve balance for grades A to G and their sub-grades, help
 
 ### Tools & Techniques Used
 -- Microsoft Excel
+
 -- Pivot Tables
+
 -- Pivot Charts
+
 -- Slicers
+
 -- Data Cleaning
+
 -- Formatting & Dashboard Design
 
 ### Project Purpose
