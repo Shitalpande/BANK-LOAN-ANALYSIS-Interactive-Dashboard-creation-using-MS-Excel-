@@ -30,17 +30,17 @@ A trend line chart showing loan distribution across different states, helping id
 A bar chart showing revolve balance for grades A to G and their sub-grades, helping evaluate risk categories.
 
 ### Tools & Techniques Used
-! Microsoft Excel
+- Microsoft Excel
 
-@ Pivot Tables
+- Pivot Tables
 
-$ Pivot Charts
+- Pivot Charts
 
-% Slicers
+- Slicers
 
-* Data Cleaning
+- Data Cleaning
 
-& Formatting & Dashboard Design
+- Formatting & Dashboard Design
 
 ### Project Purpose
 - Identify loan performance trends
